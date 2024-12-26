@@ -1,0 +1,11 @@
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1"
+ width="30"
+ height="30">
+ <g>
+    <image x="0" y="0" width="30" height="30"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFfSURBVEhL7ZZPK0RRGIfvVdhYsFKaFSULpSzIhnwBS/IBZCULS9nKRr6AjY21lAU7VhazVpOykMSwUEyxMNdzzv35V8c1l3dSuk89/c6dec/7du80pxsVFPwJSZK04Twe4T3WsIKbOK4yVzeB23iOT8otHFFJ47BpAE8wiwPcTZdB6riBLWqbDYV9WEUr1tX6ayiK8diX2/GMwxrhCT2CKRxNl2a4OXPpMiU0eFppzaTSExpsfbevlJSe0OBuZVMJDa4rrakqPaHBZ0prykpPaPCe0pp9pSdWvsH/rYeoYIf/wIY7LMVxXEsvA3fMl5fEYnplxurHoZlw5yvuyDGgjO1q2xhsWEZ30P+Ua+xVu3ywcRYfXZec3OCn8zk3NBjDW9etQU6xX9t/B40G8cJ1/YYd7NI2G2g4hO5NJMQVzqjUHpov+DHvPOAadqqkOTCgFQ/R/Y5LaPtYC/4JUfQCSTjB5q033sUAAAAASUVORK5CYII="/>
+ </g>
+</svg>
