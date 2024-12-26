@@ -28,7 +28,7 @@ This repository contains the source code for a personal CV website. The website 
 ## Usage
 
 1. Clone the repository:
-   git clone [<repository-url>](https://github.com/AmineChr54/Portfolio.git)
+   git clone https://github.com/AmineChr54/Portfolio.git
    Open Resume.html in a web browser to view the website.
 
 ## Dependencies
